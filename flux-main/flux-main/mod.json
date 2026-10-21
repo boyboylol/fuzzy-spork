@@ -1,0 +1,11 @@
+{
+	"geode": "5.11.2",
+	"gd": {
+		"win": "2.2081"
+	},
+	"id": "flux.input-buffer",
+	"name": "Flux",
+	"version": "v1.0.0",
+	"developer": "Rome",
+	"description": "Input buffer with a glass-style menu. Every frame counts. Press Y to open the settings."
+}
